@@ -1,0 +1,6 @@
+[submodule "https://github.com/espressif/rust-esp32-example.git"]
+	path = https://github.com/espressif/rust-esp32-example.git
+	url = rust-esp32-example
+[submodule "rust-esp32-example"]
+	path = rust-esp32-example
+	url = https://github.com/espressif/rust-esp32-example.git
